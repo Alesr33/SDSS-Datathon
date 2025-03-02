@@ -38,5 +38,11 @@ Investors looking for liquid properties (properties that sell fast) should prior
 Policy Makers
 Understanding the market features is key to provide laws and policies that can help the housing market and improve its effect in the economy. With this project and its insights, we hope to shine light into the importance of the diferent factors affecting the prices in order to provide more information into what factors drive prices up in Toronto.
 
+Important Notes:
+This project was made with the help of ChatGpt from OpenAI and JupyterHub. Libraries Pandas, GeoPandas, sklearn, and others, shown in the code, were used.
 
+References:
+Ontario Newsroom. (n.d.). https://news.ontario.ca/mof/en/2017/04/ontarios-fair-housing-plan.html
+OpenAI. (2024). ChatGPT (March 2024 version). https://chat.openai.com
+City of Toronto Open Data Portal. (n.d.). City of Toronto Open Data Portal. https://open.toronto.ca/
 
