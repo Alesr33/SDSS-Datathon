@@ -2,6 +2,7 @@
 
 # Navigating Toronto’s Real Estate Market
 Introduction
+
 Toronto’s real estate market is a rapidly evolving landscape that holds significant interest for various stakeholders, including homebuyers, investors, real estate agents, and city planners. The city’s continuous growth and urban expansion contribute to fluctuating property values, influenced by factors such as neighborhood amenities, proximity to public transit, and broader economic conditions. Understanding and predicting these market trends is essential for informed decision-making.
 However, the complexity of the market poses a problem in making predictions based on data about location, size, and other important factors. This problem, if solved, could aid people looking to buy property search and understand the impacts of apartment features on the price, landlords set fair prices, and even policy makers into understanding the effects of locations and other features into why is the market the way it is.
 
